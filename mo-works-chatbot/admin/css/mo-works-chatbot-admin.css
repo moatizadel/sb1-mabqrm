@@ -1,0 +1,28 @@
+.mo-works-chatbot-admin h1 {
+    color: #23282d;
+}
+
+.mo-works-chatbot-admin form {
+    max-width: 600px;
+}
+
+.mo-works-chatbot-admin label {
+    display: block;
+    margin-top: 15px;
+    font-weight: 600;
+}
+
+.mo-works-chatbot-admin input[type="text"],
+.mo-works-chatbot-admin textarea {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+}
+
+.mo-works-chatbot-admin textarea {
+    height: 100px;
+}
+
+.mo-works-chatbot-admin .submit {
+    margin-top: 20px;
+}
